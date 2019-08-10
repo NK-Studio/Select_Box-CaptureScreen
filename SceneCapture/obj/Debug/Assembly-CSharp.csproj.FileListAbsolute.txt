@@ -1,0 +1,2 @@
+C:\Users\kimhanyong\Desktop\UnityProject\tet\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\kimhanyong\Desktop\UnityProject\tet\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
